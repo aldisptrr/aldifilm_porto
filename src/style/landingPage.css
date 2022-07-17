@@ -1,0 +1,66 @@
+.myBG {
+  height: 100vh;
+  background: url("../assets/image/bg/bg1.jpg");
+  background-size: cover;
+}
+
+.judul {
+  font-size: 20px;
+  font-weight: bold;
+  letter-spacing: 2px;
+  text-shadow: 2px 2px black;
+  display: flex;
+  justify-content: center;
+}
+
+.intro {
+  height: 300px;
+  display: flex;
+  justify-content: end;
+  align-items: end;
+}
+
+.title {
+  font-size: 3rem;
+  font-weight: 800;
+  line-height: 1;
+  text-shadow: 2px 2px url("../assets/image/bg/dark.jpg");
+  letter-spacing: 4px;
+}
+
+.trending {
+  height: auto;
+  background: black;
+  background-size: cover;
+}
+
+.superhero {
+  height: auto;
+  background-color:#000;
+  background-size: cover;
+}
+
+.images {
+  height: 500px;
+}
+
+.movieImage {
+  height: auto;
+  background-color: black;
+  margin: 5px;
+  padding: 5px;
+}
+
+.images {
+  height: 500px;
+}
+
+.footer{
+  margin-top: 2rem ;
+  margin-bottom: 2rem;
+}
+
+.footer1{
+    width: 100%;
+    background-color: #000;
+}
